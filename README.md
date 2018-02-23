@@ -1,5 +1,5 @@
 # hw3-4
-[Ссылка на таблицу excel](https://1drv.ms/x/s!AqA1X8vI5rwBhlXBv-WNLNKQViOK)
+[Ссылка на таблицу excel](https://docs.google.com/spreadsheets/d/12OvklXwKK7PDKiWo05Cjbdikjfnm6yZXrKS5lPesMSQ/edit?usp=sharing)
 
 [Ссылка на гугл форму](https://docs.google.com/forms/d/11e4JIZzo-sexpPjztDxL06kMD56fliPuHCChl0kmM3Y/edit?usp=sharing)
 
